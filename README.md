@@ -12,9 +12,7 @@ Also, README.md is all upside-down, so that will be updated soon
 ## Whoops
 whoops is an error handler framework for PHP. [**More about whoops**](https://github.com/filp/whoops)
 
-```
-When using the pretty error page feature, whoops comes with the ability to open referenced files directly in your IDE or editor. 
-```
+> When using the pretty error page feature, whoops comes with the ability to open referenced files directly in your IDE or editor.  
 
 More on how to setup sublime [here](https://github.com/filp/whoops/blob/master/docs/Open%20Files%20In%20An%20Editor.md)
 
